@@ -1,4 +1,4 @@
-package example
+package com.intersysconsulting
 
 import org.scalatest._
 
