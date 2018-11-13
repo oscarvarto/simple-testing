@@ -10,8 +10,8 @@ import eu.timepit.refined._
 import eu.timepit.refined.api.Refined
 import eu.timepit.refined.collection.Size
 import eu.timepit.refined.generic.Equal
-import spire.implicits._
 import spire.algebra._
+import spire.implicits._
 import spire.std.SeqMaxNormedVectorSpace
 
 object Distance2D extends App {

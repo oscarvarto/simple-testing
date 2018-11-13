@@ -10,4 +10,5 @@ object Dependencies {
   lazy val scalaTest      = "org.scalatest"         %% "scalatest"        % "3.2.0-SNAP10"
   lazy val scalaCheck     = "org.scalacheck"        %% "scalacheck"       % "1.14.0"
   lazy val shapeless      = "com.chuusai"           %% "shapeless"        % "2.3.3"
+  lazy val avro4s         = "com.sksamuel.avro4s"   %% "avro4s-core"      % "2.0.2"
 }

@@ -64,6 +64,7 @@ lazy val root = (project in file(".")).
       refined,
       refinedScalaz,
       spire,
+      avro4s,
       scalaCheck % Test,
       scalaTest % Test
     ).map(_ withJavadoc()),
