@@ -60,7 +60,9 @@ lazy val root = (project in file(".")).
     libraryDependencies ++= Seq(
       scalazCore,
       scalazZio,
+      shapeless,
       refined,
+      refinedScalaz,
       spire,
       scalaCheck % Test,
       scalaTest % Test

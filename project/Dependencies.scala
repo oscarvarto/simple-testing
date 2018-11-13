@@ -9,4 +9,5 @@ object Dependencies {
   lazy val spire          = "org.typelevel"         %% "spire"            % "0.16.0"
   lazy val scalaTest      = "org.scalatest"         %% "scalatest"        % "3.2.0-SNAP10"
   lazy val scalaCheck     = "org.scalacheck"        %% "scalacheck"       % "1.14.0"
+  lazy val shapeless      = "com.chuusai"           %% "shapeless"        % "2.3.3"
 }
